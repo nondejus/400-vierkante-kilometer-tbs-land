@@ -1,4 +1,6 @@
 400-vierkante-kilometer-tbs-land
 ================================
 
-weigering bijstandsuitkering uit te betalen
+bijstandsuitkeringsnorm € 0,00
+
+alleenstaand zelfstandig wonend boven 21 jaar
